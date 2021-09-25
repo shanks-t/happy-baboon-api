@@ -1,0 +1,417 @@
+{
+  "users": [
+    {
+      "name": "dolores umbridge",
+      "email": "dolores@ministry.com",
+      "admin": true,
+      "id": 9
+    },
+    {
+      "name": "albus dumbledore",
+      "email": "albus@hogwarts.com",
+      "admin": true,
+      "id": 6
+    },
+    {
+      "name": "Clye Eddrington",
+      "email": "clyde@craneTruck.com",
+      "admin": false,
+      "id": 10
+    },
+    {
+      "name": "genny weasley",
+      "email": "genny@hogwarts.com",
+      "admin": false,
+      "id": 11
+    },
+    {
+      "name": "trey shanks",
+      "email": "trey@shanks.com",
+      "admin": false,
+      "id": 12
+    },
+    {
+      "name": "steve brownlee",
+      "email": "steve@nss.com",
+      "admin": false,
+      "id": 13
+    },
+    {
+      "name": "eric taylor",
+      "email": "eric@nss.com",
+      "admin": false,
+      "id": 14
+    },
+    {
+      "name": "wade bradford",
+      "email": "wade@nss.com",
+      "admin": false,
+      "id": 15
+    },
+    {
+      "name": "myriam chevalier",
+      "email": "myriam@nss.com",
+      "admin": false,
+      "id": 16
+    },
+    {
+      "name": "alicia llamalicia",
+      "email": "alicia@nss.com",
+      "admin": false,
+      "id": 17
+    },
+    {
+      "name": "severus snape",
+      "email": "severus@hogwarts.com",
+      "admin": false,
+      "id": 18
+    },
+    {
+      "name": "harry potter",
+      "email": "harry@hogwarts.com",
+      "admin": false,
+      "id": 19
+    }
+  ],
+  "routineEntries": [
+    {
+      "userId": 6,
+      "routinesId": 6,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.6",
+      "date": "9/23/2021",
+      "id": 1
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.7",
+      "date": "9/23/2021",
+      "id": 4
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.7",
+      "date": "2021-09-21",
+      "id": 5
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "2.4",
+      "date": "9/23/2021",
+      "id": 6
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "2",
+      "date": "2021-09-24",
+      "id": 7
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "1.4",
+      "date": "2021-09-25",
+      "id": 8
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "1",
+      "date": "2021-09-26",
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.7",
+      "date": "2021-09-27",
+      "id": 10
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.9",
+      "date": "2021-09-28",
+      "id": 11
+    },
+    {
+      "userId": 10,
+      "routinesId": 7,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.5",
+      "date": "2021-09-29",
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "0.4",
+      "date": "2021-09-22",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "6",
+      "date": "9/24/2021",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "4.7",
+      "date": "2021-09-25",
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "4.2",
+      "date": "2021-09-26",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "4.4",
+      "date": "2021-09-27",
+      "id": 19
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "6",
+      "date": "2021-09-28",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": false,
+      "anxietyLevel": "4.5",
+      "date": "2021-09-29",
+      "id": 21
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": false,
+      "anxietyLevel": "6.5",
+      "date": "2021-09-30",
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "6.8",
+      "date": "9/24/2021",
+      "id": 23
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": false,
+      "anxietyLevel": "7",
+      "date": "2021-10-01",
+      "id": 24
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": false,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "8",
+      "date": "2021-10-02",
+      "id": 25
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": false,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "8.6",
+      "date": "2021-10-03",
+      "id": 26
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": false,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "8.9",
+      "date": "2021-10-04",
+      "id": 27
+    },
+    {
+      "userId": 6,
+      "routinesId": 5,
+      "didRoutine1": true,
+      "didRoutine2": false,
+      "didRoutine3": false,
+      "anxietyLevel": "9.3",
+      "date": "2021-10-05",
+      "id": 28
+    },
+    {
+      "userId": 6,
+      "routinesId": 8,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "7",
+      "date": "2021-09-24",
+      "id": 29
+    },
+    {
+      "userId": 6,
+      "routinesId": 8,
+      "didRoutine1": false,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "6.3",
+      "date": "2021-09-25",
+      "id": 30
+    },
+    {
+      "userId": 6,
+      "routinesId": 8,
+      "didRoutine1": true,
+      "didRoutine2": true,
+      "didRoutine3": false,
+      "anxietyLevel": "5.3",
+      "date": "2021-09-26",
+      "id": 31
+    },
+    {
+      "userId": 6,
+      "routinesId": 8,
+      "didRoutine1": false,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "5.4",
+      "date": "2021-09-28",
+      "id": 32
+    },
+    {
+      "userId": 6,
+      "routinesId": 8,
+      "didRoutine1": false,
+      "didRoutine2": true,
+      "didRoutine3": true,
+      "anxietyLevel": "7",
+      "date": "2021-09-29",
+      "id": 33
+    },
+    {
+      "userId": 6,
+      "routinesId": 6,
+      "didRoutine1": true,
+      "didRoutine2": false,
+      "didRoutine3": true,
+      "anxietyLevel": "0.3",
+      "date": "2021-09-24",
+      "id": 34
+    }
+  ],
+  "routines": [
+    {
+      "userId": 6,
+      "routine1": "spend less than 2 hours on social media",
+      "routine2": "sleep at least 8 hours",
+      "routine3": "exercise at least 30 minutes",
+      "isActive": true,
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "routine1": "take 30 mg cbd",
+      "routine2": "eat 6 servings fruits and veggies",
+      "routine3": "avoid caffeine ",
+      "isActive": true,
+      "id": 6
+    },
+    {
+      "userId": 10,
+      "routine1": "get at least 10 hours of sleep",
+      "routine2": "play outside for at least 2 hours a day",
+      "routine3": "spend less that 1 hour a day watching videos of bulldozers",
+      "id": 7
+    },
+    {
+      "userId": 6,
+      "routine1": "go for a walk",
+      "routine2": "eat 5 servings of veggies",
+      "routine3": "sleep at least 9 hrs",
+      "id": 8
+    },
+    {
+      "userId": 6,
+      "routine1": "don't eat junk food",
+      "routine2": "exercise 1 hr a day",
+      "routine3": "spend at least 2 hrs outside",
+      "id": 9
+    }
+  ]
+}
